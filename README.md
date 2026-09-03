@@ -6,7 +6,7 @@ This repository contains the supplementary material of the study "Dual-Input CNN
 - `Google Colab Jupyter Notebooks/`: Google Colab notebooks used for data preprocessing, model training, and evaluation.
   - Raster_Processing_CNN-LSTM_Bourke: Raster Data preprocessing python notebook
   - CNN-LSTM_Bourke: Python notebook of the CNN-LSTM model
-- `processed_input_data`: Due to the large file size the input data can be found in the following Google Drive folder (https://drive.google.com/drive/folders/1oqm2Q5j5iOJ3L3ILDsnlPR7N-nUPATQb?hl=de)
+- `processed_input_data`: Due to the large file size the input data can be found in the following Google Drive folder (https://drive.google.com/drive/folders/1CZtmY7aqRIY9wTuaSTjVW7OFysAW6osT?hl=de)
   - discharge_aligned.csv: Darling River maximum daily discharge at the Bourke gauging station
   - precip_aligned.nc: Precipitation as gridded data (.nc file), daily from 1972-2025
   - et_aligned: Evapotranspiration as gridded data (.nc file), daily from 1972-2025
