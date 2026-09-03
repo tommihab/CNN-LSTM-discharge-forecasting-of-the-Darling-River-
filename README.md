@@ -3,10 +3,7 @@ This repository contains the supplementary material of the study "Dual-Input CNN
 
 ## Contents
 
-- `Google Colab Jupyter Notebooks/`: Google Colab notebooks used for data preprocessing,
-  model training, and evaluation.
-- `Input_Data_Discharge/`: Darling River maximum daily discharge at the Bourke gauging station
-- `Input_Data_raster/`: Precipitation, Evapotranspiration and soil moisture as gridded data (.nc files), daily from 1972-2025
+`Google Colab Jupyter Notebooks/`: Google Colab notebooks used for data preprocessing, model training, and evaluation.
 
 ## Study overview
 
