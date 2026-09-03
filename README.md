@@ -5,10 +5,10 @@ This repository contains the supplementary material of the study "Dual-Input CNN
 
 - `Google Colab Jupyter Notebooks/`: Google Colab notebooks used for data preprocessing, model     training, and evaluation.
 - `processed_input_data`:
-      discharge_aligned.csv: Darling River maximum daily discharge at the Bourke gauging station
-      precip_aligned.nc: Precipitation as gridded data (.nc file), daily from 1972-2025
-      et_aligned: Evapotranspiration as gridded data (.nc file), daily from 1972-2025
-      sm_aligned.nc: Soil moisture as gridded data (.nc file), daily from 1972-2025
+      -- discharge_aligned.csv: Darling River maximum daily discharge at the Bourke gauging station
+      -- precip_aligned.nc: Precipitation as gridded data (.nc file), daily from 1972-2025
+      -- et_aligned: Evapotranspiration as gridded data (.nc file), daily from 1972-2025
+      -- sm_aligned.nc: Soil moisture as gridded data (.nc file), daily from 1972-2025
       
 
 ## Study overview
