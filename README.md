@@ -4,7 +4,7 @@ This repository contains the supplementary material of the study "Dual-Input CNN
 ## Contents
 
 - `Google Colab Jupyter Notebooks/`: Google Colab notebooks used for data preprocessing, model     training, and evaluation.
-- `processed_input_data`:
+- `processed_input_data`: Due to the large file size the input data can be found in the following Google Drive folder (https://drive.google.com/drive/folders/1oqm2Q5j5iOJ3L3ILDsnlPR7N-nUPATQb?hl=de)
   - discharge_aligned.csv: Darling River maximum daily discharge at the Bourke gauging station
   - precip_aligned.nc: Precipitation as gridded data (.nc file), daily from 1972-2025
   - et_aligned: Evapotranspiration as gridded data (.nc file), daily from 1972-2025
